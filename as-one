@@ -1,0 +1,16 @@
+<DOCTYPE html>
+<html>
+<tittle>Farmers society form </tittle>
+<head>
+<body>
+<form>
+<!farmer numbers>
+<h2>farmers produce registration form</h2>
+<label for ="farmer number">farmers number</label>
+<input type="text "id="farmers no"name ="societyNo"
+<!farmer name>
+<labe for="farmer Name">Famer Name </label>
+<!farmer producrs list>
+<label>farmer produce supply </label>
+<input></>
+
